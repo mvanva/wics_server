@@ -1,1 +1,3 @@
 Hello, my name is maryAnn
+
+This is another line in the file
